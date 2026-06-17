@@ -7,4 +7,4 @@ plotly>=5.15
 streamlit>=1.25
 kaggle>=1.5
 pyarrow>=10
-tabulate>=0.9
+tabulate>=0.9wordcloud

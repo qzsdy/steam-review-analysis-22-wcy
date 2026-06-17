@@ -1,0 +1,10 @@
+pyspark>=3.3
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+plotly>=5.15
+streamlit>=1.25
+kaggle>=1.5
+pyarrow>=10
+tabulate>=0.9
